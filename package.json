@@ -48,7 +48,7 @@
     "@types/socket.io-client": "^1.4.32",
     "@types/styled-components": "^4.1.15",
     "http-proxy-middleware": "^1.0.4",
-    "react-scripts": "3.4.1",
+    "react-scripts": "3.2.0",
     "typescript": "^3.9.5"
   }
 }
